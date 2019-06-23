@@ -1,0 +1,43 @@
+h1 {
+  font-family: 'Montserrat';
+  text-align: center;
+  color: #ff0a0a;
+}
+
+.s1 {
+  background: url(../images/one.jpg);
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+}
+
+.s2 {
+  background: url(../images/two.jpg);
+  background-size: cover;
+}
+
+.s2 h1 {
+  text-align: left;
+  margin-left: 2em;
+  font-size: 4rem;
+}
+
+.s3 {
+  background: url(../images/three.jpg);
+  background-size: cover;
+}
+
+.s3 h1 {
+  text-align: left;
+  margin-left: 2em;
+  font-size: 2em;
+}
+
+span {
+  background: white !important;
+}
+
+.fp-slidesNav.fp-bottom {
+  margin-left: 1em !important;
+}
+/*# sourceMappingURL=main.css.map */
